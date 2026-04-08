@@ -1,0 +1,46 @@
+AWS Pricing Overview
+AWS-Pricing_
+AWS Pricing
+
+AWS (Amazon Web Services) follows a pay-as-you-go pricing model, offering flexibility and scalability for businesses of all sizes. Pricing varies depending on the services you use, and AWS provides multiple options to help optimize costs. Here’s an overview of key AWS pricing features and models:
+1. Pay-as-You-Go Pricing
+
+AWS charges for usage-based billing, meaning you only pay for what you use. This pricing model is based on factors like:
+
+    Compute (e.g., EC2 instances)
+    Storage (e.g., S3)
+    Data transfer
+    Requests and service usage (e.g., Lambda invocations)
+
+This model is ideal for businesses with variable workloads.
+2. On-Demand Instances
+
+On-Demand Instances let you pay for compute capacity by the hour or second (depending on the instance type) with no long-term commitments or upfront payments. This option is ideal for:
+
+    Applications with short-term, irregular, or unpredictable workloads
+    First-time AWS users testing the platform
+    Projects that cannot be interrupted
+
+These instances offer maximum convenience and are perfect for development, testing, and prototyping workloads.
+3. Reserved Pricing
+
+For predictable usage, you can commit to a long-term contract (1 or 3 years) with reserved instances for services like EC2, RDS, and Redshift. This offers:
+
+    Up to 75% cost savings compared to on-demand pricing.
+    Flexible payment options (All upfront, Partial upfront, or No upfront).
+
+4. Spot Instances
+
+Spot Instances allow you to bid on unused EC2 capacity. Prices fluctuate based on supply and demand, and you can save up to 90% compared to on-demand prices.
+
+    Great for batch processing, data analysis, or flexible workloads.
+
+5. Free Tier
+
+AWS offers a Free Tier for new users, providing access to a limited set of services for free, such as:
+
+    750 hours/month of EC2 (t2.micro instance) for the first 12 months.
+    5GB of standard S3 storage.
+    1 million Lambda requests/month.
+
+This is an excellent way for businesses to explore AWS without incurring costs.
